@@ -1,0 +1,7 @@
+arrow==0.8.0
+hypothesis==3.4.2
+invoke==0.13.0
+nameko==2.3.1
+git+https://e3d74728fcff5398483a2a4998e39bc1ea794043@github.com/forcityplatform/lumis.git@master#subdirectory=nameko-logger
+structlog==16.1.0
+git+https://e3d74728fcff5398483a2a4998e39bc1ea794043@github.com/forcityplatform/lumis.git@master#subdirectory=lumis-commons
