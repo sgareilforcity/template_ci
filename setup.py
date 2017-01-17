@@ -32,14 +32,14 @@ class Tox(TestCommand):
 with open("README.rst") as readme_f:
     README = readme_f.read()
 
-setup(name="Lumis Compilation",
+setup(name="template Testing",
       version="0.0.1",
-      description="Lumis - Lumis Compilation",
+      description="Template - testing",
       long_description=README,
       license='Proprietary License',
       author="ForCity Platform",
       author_email="support@forcity.io",
-      url="https://github.com/forcityplatform/lumis",
+      url="https://github.com/sgareilforcity/template_ci",
       packages=["compilation"],
       install_requires=[
           "invoke",

@@ -3,9 +3,8 @@ https://docs.moodle.org/dev/Acceptance_testing#Writing_features
 
 Feature: <feature title>
   As a <persona|role>
-  I want to <action>
-  So that <outcome>
-
+  I want to <_action>
+  So that <_outcome>
 
 Feature: Hello Cucumber
   As a product manager
