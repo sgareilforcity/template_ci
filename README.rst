@@ -1,1 +1,1 @@
-ForCity Platform Template test Framework
+ForCity Template Test Project

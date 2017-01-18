@@ -1,3 +1,4 @@
-class PullPush(object):
+class ClassToTest(object):
 
-    def hello(self, name=str):str= []
+    def hello(self, name=str):
+        return "hello %s" % str
