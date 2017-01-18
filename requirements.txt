@@ -1,6 +1,10 @@
 arrow==0.8.0
 hypothesis==3.4.2
 invoke==0.13.0
+pytest==3.0.5
+pytest-cov
+pytest-env
 mypy-lang
 typecheck
 lint
+teamcity-messages
