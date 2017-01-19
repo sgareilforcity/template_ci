@@ -4,7 +4,7 @@ invoke==0.13.0
 pytest==3.0.5
 pytest-cov
 pytest-env
+teamcity-messages
 mypy-lang
 typecheck
 lint
-teamcity-messages
