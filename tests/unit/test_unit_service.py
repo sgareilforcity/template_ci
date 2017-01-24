@@ -1,6 +1,6 @@
 from module_to_test.service import ClassToTest
 
-def test_list_local():
+def test_toujours_vrai():
     service = ClassToTest( )
     assert True
     #assert service.hello("bob") == "Hello bob"
