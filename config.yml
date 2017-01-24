@@ -1,0 +1,2 @@
+AMQP_URI: 'amqp://lumis:simul@broker:5672'
+RABBIT_CTL_URI: 'http://lumis:simul@broker:15672'
