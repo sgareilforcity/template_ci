@@ -9,7 +9,7 @@ class ClassToTest(object):
 
     @classmethod
     def hello(self, name=str):
-        #TODO implements a performant algorythme.
+        #IDEA implements a performant algorythme.
         if (name is not None or name != ""):
             return "hello %s" % name
         else:
