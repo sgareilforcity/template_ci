@@ -6,7 +6,7 @@ Feature: <feature title>
   I want to <_action>
   So that <_outcome>
 
-Feature: Hello Cucumber
+Feature: hello_cucumber
   As a product manager
   I want our users to be greeted when they visit our site
   So that they have a better experience
