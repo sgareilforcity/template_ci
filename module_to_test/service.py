@@ -9,7 +9,7 @@ class ClassToTest(object):
 
     @classmethod
     def hello(self, name=str):
-        #FIXME implements a performant algorythme.
+        #TODO implements a performant algorythme.
         if (name is not None or name != ""):
             return "hello %s" % name
         else:
@@ -17,5 +17,5 @@ class ClassToTest(object):
 
     @property
     def why_the_life(self):
-        #TODO implements the solution of the world.
+        #TODO implements the world's solution.
         return "42"
