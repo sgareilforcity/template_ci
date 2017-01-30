@@ -1,4 +1,4 @@
 
-def hello_cucumber():
+def test_hello_cucumber():
     assert True;
 
