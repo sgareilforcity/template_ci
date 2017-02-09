@@ -1,3 +1,3 @@
 image :
-    name : "integration/ci/template"
+    name : "platform/ci/template"
     default_tag : '1.0.0-rc-12'
