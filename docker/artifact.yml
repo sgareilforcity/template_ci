@@ -1,3 +1,3 @@
 image :
-    name : "sgareil/template_ci"
+    name : "integration/ci/template"
     default_tag : '1.0.0-rc-12'
