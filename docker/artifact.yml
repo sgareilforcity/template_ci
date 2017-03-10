@@ -1,4 +1,0 @@
-image :
-    name : "platform/ci/template"
-    version_platform : "master"
-    LuckyLuke_tag : "latest"
