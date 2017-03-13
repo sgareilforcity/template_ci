@@ -1,0 +1,5 @@
+---
+image :
+    name : "platform/ci/template"
+    run : "template"
+    version_platform : "master"
